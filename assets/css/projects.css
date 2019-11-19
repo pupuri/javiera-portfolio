@@ -1,0 +1,27 @@
+.project{
+    height: 91vh;
+ }
+
+ .project-1 {
+    background-image: url(../img/te-reclutamos.jpg);
+    background-size: cover; 
+ }
+
+ .project-2 {
+    background-image: url(../img/inti.jpg);
+    background-size: cover; 
+ }
+
+ .project-3 {
+    background-image: url(../img/terumo.jpg);
+    background-size: cover; 
+ }
+
+ .project-4 {
+    background-image: url(../img/mobank.jpg);
+    background-size: cover; 
+ }
+
+ .project h5{
+    margin-top: 40vh;
+ }
