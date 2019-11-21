@@ -17,7 +17,8 @@ a:hover {
 }
 
 .bg-dark {
-    background-color: transparent !important;
+    background-color: #000 !important;
+    z-index: 1;
 }
 
 .mt-10 {
